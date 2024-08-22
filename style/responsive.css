@@ -1,0 +1,68 @@
+@media screen and (max-width:576px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+
+/* nav bar starts here */
+#nab-links>li{
+       display: none;
+    
+}
+#nab-links>ol{
+    display: block;
+    width: 18px;
+   
+    
+}
+/* nav bar ends here */
+
+
+
+/* headder section starts here */
+#header-content{
+    flex-direction: column;
+}
+#btn-container1{
+
+   
+}
+#btn-container2{
+   
+
+}
+.all-images{
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+#Running-man-part{
+    flex-direction: column;
+    justify-content: center;
+   
+    
+}
+
+/* headder section ends here */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
